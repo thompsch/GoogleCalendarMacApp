@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "3f55b0388ecd95600762739771885ddaddc7953c158fb6a1a269faee20b2e65c"
+    }
+  ],
+  "containerPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/GoogleCalendar.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/DerivedData/GoogleCalendar/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/DerivedData/GoogleCalendar/Build/Products",
+      "derivedDataPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/DerivedData/GoogleCalendar/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/DerivedData/GoogleCalendar/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/caleb/Projects/GoogleCalendar/GoogleCalendar/obj/Xcode/6/DerivedData/GoogleCalendar/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

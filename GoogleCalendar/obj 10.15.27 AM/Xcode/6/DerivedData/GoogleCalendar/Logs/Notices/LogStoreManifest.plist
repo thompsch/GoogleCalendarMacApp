@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6EBD5D75-D107-4032-BD59-663B91B61DD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EBD5D75-D107-4032-BD59-663B91B61DD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>687978871.02958405</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GoogleCalendar</string>
+			<key>uniqueIdentifier</key>
+			<string>6EBD5D75-D107-4032-BD59-663B91B61DD3</string>
+		</dict>
+		<key>98B6EA1C-6E11-4316-8672-F24E2FAD9517</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98B6EA1C-6E11-4316-8672-F24E2FAD9517.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvY2FsZWJcL1Byb2plY3RzXC9Hb29nbGVDYWxlbmRhclwvR29vZ2xlQ2FsZW5kYXJcL29ialwvWGNvZGVcLzZcL0dvb2dsZUNhbGVuZGFyLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMjFFQUZERDAwMDAwMDAwMDAwMDAwMDAwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>687978871.02958405</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GoogleCalendar</string>
+			<key>uniqueIdentifier</key>
+			<string>98B6EA1C-6E11-4316-8672-F24E2FAD9517</string>
+		</dict>
+		<key>E17C47D0-DDE4-4B5E-822F-FAABD01CB0B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E17C47D0-DDE4-4B5E-822F-FAABD01CB0B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9jYWxlYlwvUHJvamVjdHNcL0dvb2dsZUNhbGVuZGFyXC9Hb29nbGVDYWxlbmRhclwvb2JqXC9YY29kZVwvNlwvR29vZ2xlQ2FsZW5kYXIueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>687978871.02958405</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GoogleCalendar</string>
+			<key>uniqueIdentifier</key>
+			<string>E17C47D0-DDE4-4B5E-822F-FAABD01CB0B8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CF68D215-010B-46B5-8216-6B54902CF0DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF68D215-010B-46B5-8216-6B54902CF0DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleCalendar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleCalendar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoogleCalendar</string>
+			<key>timeStartedRecording</key>
+			<real>687978871.02958405</real>
+			<key>timeStoppedRecording</key>
+			<real>687978876.466187</real>
+			<key>title</key>
+			<string>Build GoogleCalendar</string>
+			<key>uniqueIdentifier</key>
+			<string>CF68D215-010B-46B5-8216-6B54902CF0DE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
