@@ -75,17 +75,15 @@
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-32%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-16%402x.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\calendar_round.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-16.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\calendar_round 2.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-32.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\calendar_round 3.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\calendar_round 1.png" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\calendar_round 4.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\calendar_round 5.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 5.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 4.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 3.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 2.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 1.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 6.jpg" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\cal 7.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
 </Project>

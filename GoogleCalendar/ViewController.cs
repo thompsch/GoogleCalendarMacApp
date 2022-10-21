@@ -1,5 +1,4 @@
 ﻿using System;
-
 using AppKit;
 using Foundation;
 using WebKit;
@@ -20,16 +19,13 @@ namespace GoogleCalendar
             var request = new NSUrlRequest(url);
             var wvd = new WebViewDelegate();
             webView.NavigationDelegate = wvd;
-
-
             webView.LoadRequest(request);
-            /* webView.CallAsyncJavaScript(
-                 "window.location.href='http://google.com'",
-                 null, null, WKContentWorld.DefaultClient, null);
-            */
-
         }
-
+        public override void ViewDidDisappear()
+        {
+            base.ViewDidDisappear();
+            NSApplication.SharedApplication.Terminate(this);
+        }
         public override NSObject RepresentedObject
         {
             get

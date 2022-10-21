@@ -1,61 +1,59 @@
 {
   "images" : [
     {
-      "filename" : "AppIcon-16.png",
+      "filename" : "cal.jpg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
-      "filename" : "AppIcon-16@2x.png",
+      "filename" : "cal 1.jpg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
-      "filename" : "AppIcon-32.png",
+      "filename" : "cal 2.jpg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
-      "filename" : "AppIcon-32@2x.png",
+      "filename" : "cal 3.jpg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
-      "filename" : "calendar_round.png",
+      "filename" : "cal 4.jpg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
-      "filename" : "calendar_round 1.png",
+      "filename" : "cal 5.jpg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
-      "filename" : "calendar_round 2.png",
+      "filename" : "cal 7.jpg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
-      "filename" : "calendar_round 3.png",
+      "filename" : "cal 6.jpg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
-      "filename" : "calendar_round 4.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
-      "filename" : "calendar_round 5.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
